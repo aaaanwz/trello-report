@@ -1,6 +1,5 @@
 import os
 import json
-import secretmanager
 import trello
 import slack
 import boto3
